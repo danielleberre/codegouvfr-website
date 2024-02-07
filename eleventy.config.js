@@ -147,6 +147,10 @@ module.exports = function (eleventyConfig) {
         return collection.find(post => post.fileSlug === slug);
     });
 
+    eleventyConfig.addFilter("pluck", (arr, key) => {
+        return arr.map(item => item[key]);
+    });
+
     // Customize Markdown library settings:
     eleventyConfig.amendLibrary("md", mdLib => {
         mdLib.use(markdownItAnchor, {
@@ -177,6 +181,10 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.amendLibrary("md", mdLib => {
         mdLib.use(markdownItContainer, 'quote', customMarkdownContainers.quote(mdLib));
+    });
+
+    eleventyConfig.amendLibrary("md", mdLib => {
+        mdLib.use(markdownItContainer, 'alert', customMarkdownContainers.alert(mdLib));
     });
 
     // Automatically strip all leading or trailing whitespace
