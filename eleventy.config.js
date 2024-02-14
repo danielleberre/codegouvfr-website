@@ -138,7 +138,7 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addFilter("filterTagList", function filterTagList(tags, addTags = []) {
-        return (tags || []).filter(tag => ["all", "nav", "post", "posts", "bluehats_post", "bluehats_posts", "event"]
+        return (tags || []).filter(tag => ["all", "nav", "post", "posts", "bluehats_post", "bluehats_posts", "events"]
             .concat(addTags)
             .indexOf(tag) === -1);
     });
@@ -185,6 +185,10 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.amendLibrary("md", mdLib => {
         mdLib.use(markdownItContainer, 'alert', customMarkdownContainers.alert(mdLib));
+    });
+
+    eleventyConfig.amendLibrary("md", mdLib => {
+        mdLib.use(markdownItContainer, 'accordion', customMarkdownContainers.accordion(mdLib));
     });
 
     // Automatically strip all leading or trailing whitespace
