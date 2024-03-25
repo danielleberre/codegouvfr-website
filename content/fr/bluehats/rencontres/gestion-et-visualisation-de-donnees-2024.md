@@ -10,7 +10,7 @@ tags: Data
 
 Le 30 avril de 9h à 17h30 au [Lieu de la Transformation Publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), participez à une journée BlueHats sur les outils libres de gestion et de visualisation de données, notamment [Apache Superset](https://code.gouv.fr/sill/detail?name=Apache%20Superset) et [Metabase](https://code.gouv.fr/sill/detail?name=Metabase).
 
-{% imageContent "./metabase.png", "Capture d'écran de Superset pour vous donner envie" %}
+{% imageContent "./superset.png", "Capture d'écran de Superset pour vous donner envie" %}
 
 L'événement est ouvert à toutes les personnes qui travaillent dans ou avec un organisme public.
 
