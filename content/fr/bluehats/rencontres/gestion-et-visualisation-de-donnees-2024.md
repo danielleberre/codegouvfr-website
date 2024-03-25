@@ -8,7 +8,7 @@ image:
 tags: Data
 ---
 
-Le 30 avril de 9h30 à 17h30 au [Lieu de la Transformation Publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), participez à une journée BlueHats sur les outils libres de gestion et de visualisation de données : [Apache Superset](https://code.gouv.fr/sill/detail?name=Apache%20Superset), [Metabase](https://code.gouv.fr/sill/detail?name=Metabase), 
+Le 30 avril de 9h à 17h30 au [Lieu de la Transformation Publique](https://www.modernisation.gouv.fr/diffuser-linnovation-publique/le-lieu-de-la-transformation-publique), participez à une journée BlueHats sur les outils libres de gestion et de visualisation de données : [Apache Superset](https://code.gouv.fr/sill/detail?name=Apache%20Superset), [Metabase](https://code.gouv.fr/sill/detail?name=Metabase), 
 
 {% imageContent "./metabase.png", "Capture d'écran de Metabase pour vous donner envie" %}
 
