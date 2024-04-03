@@ -63,6 +63,11 @@ data·inclusion est le commun numérique de l'offre d'insertion. Il recense les 
             description: `
 Retrouvez tous les équipements sportifs géolocalisés en France (terrain de football, court de tennis, mur d'escalade, etc.). Cette base de données des équipements sportifs et des lieux de pratiques contient aussi bien d'autres informations comme l'accessibilité, le niveau de pratique, le type de propriétaire, etc.`,
             imagePath: "./ministere_des_sports_et_des_jeux_olympiques_et_paralympiques.png"
+        }, {
+            url: "https://panoramax.fr",
+            title: "Panoramax",
+            description: `
+Panoramax est l'alternative libre pour photo-cartographier les territoires.  Le projet a été initié en 2022 par OpenStreetMap France et L'IGN.`
         }
     ]
 };
