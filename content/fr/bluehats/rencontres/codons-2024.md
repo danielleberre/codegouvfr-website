@@ -4,7 +4,11 @@ date: 2024-01-09
 description: Le compte-rendu du garagethon #BlueHats 🧢 qui s’est déroulé les 9 et 10 janvier 2024
 image:
   path: ./bluehats_et_ada_zangemann.jpg
+<<<<<<< HEAD
   alt: Pour les participants : des chapeaux bleus et la BD Ada & Zangemann !
+=======
+  alt: "Pour les participants : des chapeaux bleus et la BD Ada & Zangemann !"
+>>>>>>> main
 tags: Garagethon
 ---
 
