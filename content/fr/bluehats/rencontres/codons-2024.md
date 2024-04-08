@@ -4,22 +4,13 @@ date: 2024-01-09
 description: "Compte-rendu du garagethon #BlueHats qui s’est déroulé les 9 et 10 janvier 2024"
 image:
   path: ./bluehats_et_ada_zangemann.jpg
-<<<<<<< HEAD
-<<<<<<< HEAD
-  alt: Pour les participants : des chapeaux bleus et la BD Ada & Zangemann !
-=======
-  alt: "Pour les participants : des chapeaux bleus et la BD Ada & Zangemann !"
->>>>>>> main
-=======
   alt: "Pour les participants, des chapeaux bleus et la BD Ada & Zangemann !"
->>>>>>> main
 tags: Garagethon
 ---
 
 Nous publions le compte-rendu détaillé du garagethon #BlueHats 🧢 qui s’est déroulé les 9 et 10 janvier 2024 au Lieu de la Transformation Publique. Ces deux journées étaient organisées par la Dinum et animées par [La Dérivation](https://dérivation.fr/) et [l'Établi Numérique](https://letab.li/). Ces deux journées s’adressaient aux agents publics qui utilisent et contribuent à des logiciels libres dans l’administration, membres de [la communauté BlueHats](https://code.gouv.fr/fr/contact/espaces-communication-bluehats/) ou non.
 
 `>>` **Télécharger le compte-rendu détaillé en [.odt](/docs/CR_Garagethon_BlueHats_janvier_2024.odt) et [.pdf](/docs/CR_Garagethon_BlueHats_janvier_2024.pdf)**
-
 
 Elles faisaient suite à la journée BlueHats « [Mutualisons](https://code.gouv.fr/fr/bluehats/mutualisons-2022/) ! » du 1er juillet 2022.
 
