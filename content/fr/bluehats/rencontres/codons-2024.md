@@ -5,9 +5,13 @@ description: "Compte-rendu du garagethon #BlueHats qui s’est déroulé les 9 e
 image:
   path: ./bluehats_et_ada_zangemann.jpg
 <<<<<<< HEAD
+<<<<<<< HEAD
   alt: Pour les participants : des chapeaux bleus et la BD Ada & Zangemann !
 =======
   alt: "Pour les participants : des chapeaux bleus et la BD Ada & Zangemann !"
+>>>>>>> main
+=======
+  alt: "Pour les participants, des chapeaux bleus et la BD Ada & Zangemann !"
 >>>>>>> main
 tags: Garagethon
 ---
