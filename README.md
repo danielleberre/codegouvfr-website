@@ -31,11 +31,8 @@ Ce dépôt est publié par la [DINUM](https://www.numerique.gouv.fr/) depuis 202
 
 Les codes sources du dépôt sont publiés sous [licence MIT](LICENSES/LICENSE.MIT.md).
 
-<<<<<<< HEAD
-=======
 Le contenu rédactionnel du site est publié sous [licence Ouverte 2.0](LICENSES/LICENSE.Etalab-2.0.md).
 
->>>>>>> main
 ## Crédits images
 
 - [Programmer.png](public/illustrations/Programmer.png) par `ven` sur [IllustrationKit](https://illustrationkit.com/illustrations/ven)
