@@ -10,7 +10,7 @@ date: 2024-05-22
 - Nous publions le [compte-rendu de la journée BlueHats consacrée à Superset](https://code.gouv.fr/fr/bluehats/gestion-et-visualisation-de-donnees-2024/) : merci aux nombreux participants !
 - Il reste deux jours pour vous inscrire à la prochaine [journée BlueHats organisée autour de GitLab CE](https://code.gouv.fr/fr/bluehats/outils-de-forge-2024/) et qui aura lieu à Paris le 27 mai.
 - Qu'on se le dise : les [ateliers BlueHats](https://code.gouv.fr/fr/bluehats/tags/atelier/) reprennent !
-- La mission logiciels libres a été distinguée par la [https://www.fsf.org](Free Software Foundation) en recevant son [prix pour les projets d'utilité sociale](https://www.fsf.org/news/free-software-awards-winners-announced-bruno-haible-french-free-software-unit-nick-logozzo) : une bonne nouvelle pour tous les OSPO du secteur public !
+- La mission logiciels libres a été distinguée par la [Free Software Foundation](https://www.fsf.org) en recevant son [prix pour les projets d'utilité sociale](https://www.fsf.org/news/free-software-awards-winners-announced-bruno-haible-french-free-software-unit-nick-logozzo) : une bonne nouvelle pour tous les OSPO du secteur public !
 
 <br>
 
@@ -99,7 +99,6 @@ Lors de ce webinaire organisé par le programme Transformation numérique des te
 ## 📰 La revue de presse
 ### En français
 
-- [La suite collaborative numérique de l’État dans les starting-blocks](https://acteurspublics.fr/articles/la-suite-collaborative-numerique-de-letat-dans-les-starting-blocks), mai 2024
 - [Les candidatures pour le prix science ouverte du logiciel libre de la recherche 2024 sont ouvertes !](https://www.ouvrirlascience.fr/les-candidatures-pour-le-prix-science-ouverte-du-logiciel-libre-de-la-recherche-2024-sont-ouvertes/), ouvrirlascience.fr, mai 2024
 - [Bye bye Windows : 30 000 membres du personnel de l'État travailleront bientôt sous Linux](https://www.digitec.ch/fr/page/bye-bye-windows-30-000-membres-du-personnel-de-letat-travailleront-bientot-sous-linux-32543), digitec.ch, mai 2024
 - [Oracle abandonne Terraform, un environnement logiciel d'« infrastructure en tant que code », au profit d'OpenTofu](https://oracle.developpez.com/actu/357902/Oracle-abandonne-Terraform-un-environnement-logiciel-d-infrastructure-en-tant-que-code-au-profit-d-OpenTofu-et-demande-a-ses-clients-de-passer-a-la-derniere-MAJ-construite-sur-des-logiciels-libres/), developpez.com, mai 2024
@@ -107,6 +106,7 @@ Lors de ce webinaire organisé par le programme Transformation numérique des te
 - [Open Source et IA : des synergies à repenser ?](https://www.peren.gouv.fr/rapports/2024-04-03_Eclairage%20sur_OpenSource-IAG_FR.pdf), peren.gouv.fr, avril 2024
 - [Les logiciels libres entrés au SILL au premier trimestre 2024](https://www.silicon.fr/logiciels-libres-sill-premier-trimestre-2024-477205.html), silicon.fr, avril 2024
 - [Un Land allemand lâche la bureautique Microsoft pour l'open source](https://www.cio-online.com/actualites/lire-un-land-allemand-lache-la-bureautique-microsoft-pour-l-open-source-15576.html), avril 2024
+- [La suite collaborative numérique de l’État dans les starting-blocks](https://acteurspublics.fr/articles/la-suite-collaborative-numerique-de-letat-dans-les-starting-blocks), avril 2024
 - [Le CNLL se mobilise pour les élections européennes](https://cnll.fr/news/le-cnll-se-mobilise-pour-les-%C3%A9lections-europ%C3%A9ennes/), cnll.fr, mars 2024
 
 <br>
