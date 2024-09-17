@@ -1,5 +1,5 @@
 ---
-title: La Suite : an Open Source collaborative digital suite for civil servants
+title: "La Suite : an Open Source collaborative digital suite for civil servants"
 layout: layouts/post.njk
 date: 2024-09-16
 ---
